@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.linkedin.test.LinkedInTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-24T07:32:08" hostname="LAPTOP-VA1S61KV" time="3.359">
+  <properties/>
+  <testcase name="linkedIn_Login" classname="com.bridgelabz.linkedin.test.LinkedInTest" time="3.359"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
